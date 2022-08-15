@@ -3,3 +3,5 @@ Entrada
 saída
 
 print
+
+digite sua idade
