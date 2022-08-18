@@ -5,3 +5,5 @@ saída
 print
 
 digite sua idade
+
+digite seu nome
