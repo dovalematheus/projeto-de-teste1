@@ -7,3 +7,5 @@ print
 digite sua idade
 
 digite seu nome
+
+digite o seu e-mail
